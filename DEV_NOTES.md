@@ -12,3 +12,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Added healthcheck endpoint stub
+
+## 2026-05-13
+- Refactored module structure for clarity
