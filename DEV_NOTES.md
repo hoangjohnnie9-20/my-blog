@@ -9,3 +9,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Added type hints to helper functions
 - Ran linter, applied auto-fixes
+
+## 2026-05-13
+- Added healthcheck endpoint stub
